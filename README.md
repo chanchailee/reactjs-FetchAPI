@@ -1,7 +1,7 @@
 
 Author: Chanchai Lee\
 Ref: Brad Traversy\
-	https://www.youtube.com/watch?v=A71aqufiNtQ&t=\
+	https://www.youtube.com/watch?v=A71aqufiNtQ&t= \
 	https://github.com/bradtraversy/projectmanager
 
 
